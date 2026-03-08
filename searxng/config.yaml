@@ -1,0 +1,22 @@
+name: SearXNG
+version: "0.1.0"
+slug: searxng
+description: Privacy-focused metasearch engine
+url: "https://github.com/IAmStiven/homeassistant-apps/tree/main/apps/searxng"
+arch:
+  - aarch64
+  - amd64
+  - armv7
+init: false
+startup: application
+boot: auto
+webui: "http://[HOST]:[PORT:8080]"
+panel_icon: mdi:magnify
+map:
+  - share:rw
+ports:
+  8080/tcp: 8080
+ports_description:
+  8080/tcp: SearXNG web interface
+options: {}
+schema: {}
