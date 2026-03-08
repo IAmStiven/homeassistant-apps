@@ -6,6 +6,10 @@ This directory is set up as a Home Assistant app repository.
 
 - `searxng/`: privacy-focused metasearch engine
 
+## Development
+
+- Reusable addon workflow: `.opencode/skills/build-homeassistant-addon.md`
+
 ## Installation
 
 To install any of the add-ons offered in this repository, you must first add its repository URL to your Home Assistant instance. To do so, click the following button:
