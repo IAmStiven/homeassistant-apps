@@ -4,6 +4,7 @@ This directory is set up as a Home Assistant app repository.
 
 ## Included apps
 
+- `dispatcharr/`: IPTV, EPG, and VOD stream management companion
 - `openclaw/`: personal AI assistant gateway using Bun
 - `searxng/`: privacy-focused metasearch engine
 - `threadfin/`: M3U proxy for Plex DVR, Emby, and Jellyfin Live TV
