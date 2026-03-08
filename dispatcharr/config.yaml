@@ -1,5 +1,5 @@
 name: Dispatcharr
-version: "0.1.0"
+version: "0.1.0-1"
 slug: dispatcharr
 description: IPTV, EPG, and VOD stream management companion
 url: "https://github.com/IAmStiven/homeassistant-apps/tree/main/dispatcharr"
